@@ -11,14 +11,10 @@
             "id": "083edb18fc24dd6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "БД/Без названия.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -177,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "083edb18fc24dd6b",
+  "active": "6ba5422f673a1bd0",
   "lastOpenFiles": [
     "БД/Без названия.md",
-    "МДК/Без названия.md",
     "БД",
+    "МДК/Без названия.md",
     "МДК/МДК 05.03",
     "МДК/МДК 05.02",
     "МДК/МДК 05.01",
