@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c7c6d5ebea74b69",
+        "id": "e7ae881ccde2ff9b",
         "type": "tabs",
         "children": [
           {
-            "id": "083edb18fc24dd6b",
+            "id": "21405b5c169f5f39",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,14 +173,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ba5422f673a1bd0",
+  "active": "21405b5c169f5f39",
   "lastOpenFiles": [
-    "БД/Без названия.md",
-    "БД",
-    "МДК/Без названия.md",
+    "conflict-files-obsidian-git.md",
+    "МДК/МДК 05.03/Без названия.md",
+    "МДК/МДК 05.02/Без названия.md",
+    "МДК/МДК 05.01/Без названия.md",
     "МДК/МДК 05.03",
     "МДК/МДК 05.02",
     "МДК/МДК 05.01",
-    "МДК"
+    "МДК",
+    "БД/Без названия.md",
+    "БД",
+    "МДК/Без названия.md"
   ]
 }
